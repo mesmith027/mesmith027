@@ -15,7 +15,8 @@ use https://shields.io/ for badges
 - 🥅 2022 Goals: to contribute to more public open source projects
 
 ### Connect with me
-[![Twitter Badge](https://img.shields.io/twitter/follow/MarisaDataNerd?style=social)](https://twitter.com/MarisaDataNerd)[![Linkedin Badge](https://img.shields.io/badge/Marisa-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marisa-smith-datanerd/)
+[![Twitter Badge](https://img.shields.io/twitter/follow/MarisaDataNerd?style=social)](https://twitter.com/MarisaDataNerd)
+[![Linkedin Badge](https://img.shields.io/badge/Marisa-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marisa-smith-datanerd/)
 <!--[![Mail Badge](https://img.shields.io/badge/-CoderOne-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/coderone)
 [
 [![Mail Badge](https://img.shields.io/badge/-@islempenywis-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/islempenywis)
