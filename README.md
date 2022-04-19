@@ -8,7 +8,7 @@
 use https://shields.io/ for badges
 -->
 
-- 🔭 I’m currently building an education program for [Streamlit](https://streamlit.io/)
+- 🔭 I’m currently Head of Developer Relations for [Open Meta Data](https://github.com/open-metadata/OpenMetadata)
 - 💬 Ask me about Data, Streamlit, Python and Physics
 - 😄 Pronouns: She/her
 - ⚡️ Fun fact: I love to swim and run! and before we get any further... I'm not a crazy cat person, your a crazy people person!
